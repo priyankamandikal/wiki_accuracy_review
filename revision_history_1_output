@@ -1,0 +1,15 @@
+Length of extracted tokens: 3444
+Length of expected tokens: 15 
+Expected tokens:  ['The', ' ', 'city', ' ', 'has', ' ', 'a', ' ', 'population', ' ', 'of', ' ', '4', ',', '128']
+[(1196, 1211)]
+
+Revision history:
+'The' was added 2005-06-15T03:10:35Z
+'city' was added 2005-06-15T03:10:35Z
+'has' was added 2005-06-15T03:10:35Z
+'a' was added 2005-06-15T03:10:35Z
+'population' was added 2005-06-15T03:10:35Z
+'of' was added 2005-06-15T03:10:35Z
+'4' was added 2005-06-15T03:10:35Z
+',' was added 2005-06-15T03:10:35Z
+'128' was added 2013-11-15T13:50:49Z
